@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp 'lib/jars/*' "ar.edu.itba.client.Client" -Dquery=2 $*
